@@ -43,8 +43,8 @@
         launcher:y="3" />
 
     <favorite
-        launcher:packageName="com.google.android.apps.maps"
-        launcher:className="com.google.android.maps.MapsActivity"
+        launcher:packageName="com.android.im"
+        launcher:className="com.android.im.app.ImApp"
         launcher:screen="1"
         launcher:x="3"
         launcher:y="3" />
